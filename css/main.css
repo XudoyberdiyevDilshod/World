@@ -150,7 +150,8 @@ img {
 .about-hero__link::before {
   position: absolute;
   display: inline-block;
-  top: 11px;
+  padding: 0;
+  top: 10px;
   left: 20px;
   width: 13.33px;
   height: 13.33px;
